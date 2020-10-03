@@ -1,3 +1,9 @@
+body{
+    border: whitesmoke solid 3.5vw;
+    background: url("../Image/background.JPG");
+    
+}
+
 main{
     background-color: blueviolet;
 }
