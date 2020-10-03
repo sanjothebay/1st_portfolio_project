@@ -12,6 +12,58 @@ aside {
     background-color: chartreuse;
 }
 
-footer {
-    
+}
+.social-links {
+    background-color: white;
+    width: 22vw;
+    height: 17vw;
+    padding: 1vw;
+    padding-top: 2vw;
+    margin-left: 3vw;
+    box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
+}
+
+.social-link-wrappers {
+    display: flex;
+    padding-top: 2vw;
+}
+
+.social-link-wrappers li {
+    display: flex;
+    padding: .40vw;
+    font-size: 3.5vw;
+}
+
+.fa-github {
+    background: black;
+    color: white;
+    padding: 1vw;
+    width: 6vw;
+    text-align: center;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    padding: 1vw;
+    width: 6vw;
+    text-align: center;
+}
+
+.fa-stack-overflow {
+    background: orange;
+    color: white;
+    padding: 1vw;
+    width: 6vw;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
+ footer {
+     background-color: rgb(78, 76, 76);
+     padding: 2%;
+     margin: auto 0%;
+     border-top: solid teal 1vw;
 }
