@@ -2,3 +2,54 @@ body{
     border: whitesmoke solid 3.5vw;
     background: url("../Images/background.JPG");   
 }
+
+form{
+    background-color: white;
+    padding: 4%;
+    margin: 10%;
+    margin-left: 5%;
+}
+
+h1 {
+    background-color: teal;
+    margin-left: 5%;
+    text-align: center;
+    color: ivory;
+    padding: 1%;
+}
+h2 {
+    color: teal;
+    font-size: 2.5rem;
+    border-bottom: solid 1px;
+    padding-bottom: 4% ;
+    padding-left: 3%;
+}
+
+ul {
+    padding-right: 5%;
+}
+.form-group{
+    padding-right: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+}
+ footer p {
+     background-color: rgb(78, 76, 76);
+     padding: 2%;
+     margin: 0%;
+     border-top: solid teal 1rem;
+}
