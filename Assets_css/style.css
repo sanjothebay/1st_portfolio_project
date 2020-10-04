@@ -36,7 +36,6 @@ ul {
     padding-right: 5%;
 }
 aside {
-    
 }
 
 .social-links {
@@ -85,11 +84,9 @@ aside {
 }
 
 footer p {
-    text-align: center;
+    
 }
  footer {
      background-color: rgb(78, 76, 76);
-     padding: 2%;
-     margin: auto 0%;
-     border-top: solid teal 1vw;
+     border-top: solid teal ;
 }
