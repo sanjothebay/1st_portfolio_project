@@ -1,18 +1,44 @@
 body{
     border: whitesmoke solid 3.5vw;
-    background: url("../Image/background.JPG");
+    background: url("../Images/background.JPG");
     
 }
 
-main{
-    background-color: blueviolet;
+main {
+    background-color: white;
+    margin: 6%;
+    padding: 3%;
 }
-
+h1 {
+    background-color: teal;
+    margin-left: 5%;
+    text-align: center;
+    color: ivory;
+    padding: 1%;
+}
+h2 {
+    color: teal;
+    font-size: 275%;
+    border-bottom: solid 1px;
+    padding-bottom: 4% ;
+    padding-left: 3%;
+}
+img{
+    border-radius: 25%;
+    float: left;
+    padding: 4%;
+    width: 50%;
+}
+p {
+    margin: 5%;
+}
+ul {
+    padding-right: 5%;
+}
 aside {
-    background-color: chartreuse;
+    
 }
 
-}
 .social-links {
     background-color: white;
     width: 22vw;
