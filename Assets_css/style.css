@@ -35,7 +35,13 @@ p {
 ul {
     padding-right: 5%;
 }
+
 aside {
+    position: absolute;
+    top: 8%;
+    right: 45%;
+
+   
 }
 
 .social-links {
