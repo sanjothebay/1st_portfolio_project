@@ -1,60 +1,84 @@
 body{
-    background-color:  violet;
-
+    border: whitesmoke solid 3.5vw;
+    background: url("../Images/background.JPG");   
 }
 main {
-    background-color:  red;
-
+    background-color: white;
+    margin-top: 6%;
+    margin-left: -5%;
+    margin-bottom: 7%;
+    padding: 3%;
 }
+h1 {
+    background-color: teal;
+    margin-left: 5%;
+    text-align: center;
+    color: ivory;
+    padding: 1%;
+}
+h2 {
+    color: teal;
+    font-size: 2.80rem;
+    border-bottom: solid 1px;
+    padding-bottom: 4% ;
+    padding-left: 3%;
+}
+h3 {
+    text-align: center;
+    color: lightseagreen;
+    border-bottom: solid 1px;
+    padding-bottom: 5%;
+}
+img{
+    border-radius: 25%;
+    float: left;
+    padding: 4%;
+    width: 50%;
+}
+p {
+    margin: 5%;
+}
+ul {
+    padding-right: 5%;
+}
+
 aside {
-    background-color: chartreuse;
+    background-color: white;
+    box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
+    margin-top: 4%;
 }
-
-img {
-    float: left;;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .social-links {
-    
+    width: 20rem;
+    height: 23%;
+    padding: 10%;
 }
 .social-link-wrappers {
-    
+    display: flex;
 }
 .social-link-wrappers li {
-    
+    display: flex;
+    padding: 8%;
+    font-size: 3rem;
 }
 .fa-github {
     background: black;
     color: white;
-    padding: %;
-    width: %;
+    padding: 40%;
+    width: 190%;
     text-align: center;
 }
 .fa-linkedin {
     background: #007bb5;
     color: white;
-    padding: %;
-    width: %;
+    padding: 40%;
+    width: 190%;
     text-align: center;
 }
 .fa-stack-overflow {
     background: orange;
     color: white;
-    padding: ;
-    width: %;
+    padding: 40%;
+    width: 190%;
     text-align: center;
 }
 footer{
@@ -62,7 +86,7 @@ footer{
 }
  footer p {
      background-color: rgb(78, 76, 76);
-     padding: ;
-     margin: ;
-     border-top: solid teal ;
+     padding: 2%;
+     margin: 0%;
+     border-top: solid teal 1rem;
 }
