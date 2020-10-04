@@ -83,10 +83,12 @@ aside {
     text-align: center;
 }
 
-footer p {
-    
+footer{
+    text-align: center;
 }
- footer {
+ footer p {
      background-color: rgb(78, 76, 76);
-     border-top: solid teal ;
+     padding: 2%;
+     margin: 0%;
+     border-top: solid teal 1vw;
 }
