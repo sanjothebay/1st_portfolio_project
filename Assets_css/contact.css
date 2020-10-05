@@ -2,14 +2,12 @@ body{
     border: whitesmoke solid 3.5vw;
     background: url("../Images/background.JPG");   
 }
-
 form{
     background-color: white;
     padding: 4%;
     margin: 10%;
     margin-left: 5%;
 }
-
 h1 {
     background-color: teal;
     margin-left: 5%;
@@ -24,26 +22,12 @@ h2 {
     padding-bottom: 4% ;
     padding-left: 3%;
 }
-
 ul {
     padding-right: 5%;
 }
 .form-group{
     padding-right: 5%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 footer{
     text-align: center;
 }
