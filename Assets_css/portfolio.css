@@ -4,6 +4,7 @@ body{
 }
 main {
     background-color: white;
+    box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
     margin: 8%;
     margin-left: -1%;
     padding: 3%;
@@ -27,6 +28,9 @@ ul {
 }
 .portfolio {
     padding: 3%;
+}
+nav{
+    box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
 }
 footer{
     text-align: center;

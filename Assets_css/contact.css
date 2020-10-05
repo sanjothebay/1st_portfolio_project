@@ -3,6 +3,7 @@ body{
     background: url("../Images/background.JPG");   
 }
 form{
+    box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
     background-color: white;
     padding: 4%;
     margin: 8%;
@@ -27,6 +28,9 @@ ul {
 }
 .form-group{
     padding-right: 20%;
+}
+nav {
+    box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
 }
 footer{
     text-align: center;
