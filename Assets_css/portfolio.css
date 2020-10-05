@@ -2,3 +2,26 @@ body{
     border: whitesmoke solid 3.5vw;
     background: url("../Images/background.JPG");   
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+    text-align: center;
+}
+ footer p {
+     background-color: rgb(78, 76, 76);
+     padding: 2%;
+     margin: 0%;
+     border-top: solid teal 1rem;
+}
