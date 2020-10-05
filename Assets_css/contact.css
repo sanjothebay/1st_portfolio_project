@@ -5,15 +5,15 @@ body{
 form{
     background-color: white;
     padding: 4%;
-    margin: 10%;
-    margin-left: 5%;
+    margin: 8%;
+    margin-left: -1%;
 }
 h1 {
     background-color: teal;
-    margin-left: 5%;
+    margin-left: 4%;
     text-align: center;
     color: ivory;
-    padding: 1%;
+    padding: .5%;
 }
 h2 {
     color: teal;
@@ -23,7 +23,7 @@ h2 {
     padding-left: 3%;
 }
 ul {
-    padding-right: 5%;
+    padding-right: 12%;
 }
 .form-group{
     padding-right: 5%;
