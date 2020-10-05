@@ -2,20 +2,29 @@ body{
     border: whitesmoke solid 3.5vw;
     background: url("../Images/background.JPG");   
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+main {
+    background-color: white;
+    margin: 8%;
+    margin-left: -1%;
+    padding: 3%;
+}
+h1 {
+    background-color: teal;
+    margin-left: 5%;
+    text-align: center;
+    color: ivory;
+    padding: 1%;
+}
+h2 {
+    color: teal;
+    font-size: 2.5rem;
+    border-bottom: solid 1px;
+    padding-bottom: 4% ;
+    padding-left: 3%;
+}
+.portfolio {
+    padding: 3%;
+}
 footer{
     text-align: center;
 }
