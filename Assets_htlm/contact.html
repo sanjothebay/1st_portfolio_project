@@ -31,16 +31,16 @@
     <div class="container">
         <div class="row">
             <div class="col-md-8 col-lg-8 col-sm-6">
-                <form>
+                <form form method="post" autocomplete="off" name="google-sheet">
                     <h2>Contact</h2>
-                    
+
                     <div class="form-group">
                         <label>Name</label>
-                        <input type="text" class="form-control" placeholder="Name">
+                        <input type="text" name="Name" class="form-control" placeholder="Name">
                         <label>Email</label>
-                        <input type="email" class="form-control" placeholder="Email">
+                        <input type="email" name="Email" class="form-control" placeholder="Email" required>
                         <label>Message</label>
-                        <textarea type="text" class="form-control" placeholder="Message"></textarea>
+                        <textarea type="text" name="Message" class="form-control" placeholder="Message"></textarea>
                     </div>
                     <div class="form-group">
                         <button type="submit" class="btn btn-primary">Submit</button>
@@ -56,6 +56,27 @@
     </footer>
 
 </body>
+
+<form name="submit-to-google-sheet">
+    <input name="email" type="email" placeholder="Email" required>
+    <button type="submit">Send</button>
+</form>
+
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxYaZLb_nSMLIy_n3cBSZZvlh2ivbN3n4-fZKaxkxZPlB6jgv5o/exec'
+    const form = document.forms['google-sheet']
+
+    form.addEventListener('submit', e => {
+        e.preventDefault()
+        fetch(scriptURL, { method: 'POST', body: new FormData(form) })
+            .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+            .catch(error => console.error('Error!', error.message))
+    })
+</script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
