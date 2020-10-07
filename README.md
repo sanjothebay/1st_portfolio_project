@@ -58,20 +58,19 @@ layout.
 ![image](https://user-images.githubusercontent.com/67298961/95398146-aa639100-08ca-11eb-9ece-d8c9b017dec4.png)
 
 
+![image](https://user-images.githubusercontent.com/67298961/95398677-0da1f300-08cc-11eb-9f4f-7a0301d9357f.png)
+
+
+
+![image](https://user-images.githubusercontent.com/67298961/95398218-e0087a00-08ca-11eb-8e38-3ac91bf9ea9e.png)
+
+
 
 ![portfolio_google_sheets](https://user-images.githubusercontent.com/67298961/95285276-07593b80-0826-11eb-81cf-58aa2e76acb3.JPG)
 
 
 
 ![social_links](https://user-images.githubusercontent.com/67298961/95285308-19d37500-0826-11eb-91b0-3721c44fbb8c.JPG)
-
-
-
-![image](https://user-images.githubusercontent.com/67298961/95398677-0da1f300-08cc-11eb-9f4f-7a0301d9357f.png)
-
-
-
-![image](https://user-images.githubusercontent.com/67298961/95398218-e0087a00-08ca-11eb-8e38-3ac91bf9ea9e.png)
 
 
 
