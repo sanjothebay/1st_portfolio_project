@@ -2,6 +2,8 @@
 
 https://sanjothebay.github.io/tech_monterrey_portfolio_hw_project/
 
+https://github.com/sanjothebay/tech_monterrey_portfolio_hw_project
+
 
 ![example](https://user-images.githubusercontent.com/67298961/95285808-4c31a200-0827-11eb-9dfd-61d6a0f8786b.JPG)
 
