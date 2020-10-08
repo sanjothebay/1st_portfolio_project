@@ -6,6 +6,10 @@ https://sanjothebay.github.io/tech_monterrey_portfolio_hw_project/
 https://github.com/sanjothebay/tech_monterrey_portfolio_hw_project
 
 
+****  This web page is using Bootstrap to help with the responsiveness. 
+This is my second homework assignment given to us by Technology de Monterrey Mexico Coding. 
+
+
 Picture Example Given:
 
 
@@ -54,9 +58,7 @@ layout.
 
 
 
-****  This web page is using Bootstrap to help with the responsiveness. This is my second homework assignment given to us by Technology de Monterrey Mexico Coding. 
-I provided the instruction given to us on this README.md . 
-I pulled the work from the Tech Monterrey Gitlab and I then created my own repository for the project. I Created my assets folder and my image folder. 
+**** I pulled the work from the Tech Monterrey Gitlab and I then created my own repository for the project. I Created my assets folder and my image folder. 
 Within my assets folder, I added my Html files and my CSS files to have things in order. 
 
 
