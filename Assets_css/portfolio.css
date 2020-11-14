@@ -23,17 +23,11 @@ h2 {
     padding-bottom: 4% ;
     padding-left: 3%;
 }
-/* Container holding the image and the text */
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
+h4{
+    color: black;
 }
-/* Top left text */
-.top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
+.divider{
+    padding-left: 25%;
 }
 
 ul {
