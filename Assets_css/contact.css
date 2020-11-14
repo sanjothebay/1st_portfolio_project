@@ -26,6 +26,10 @@ h2 {
 ul {
     padding-right: 12%;
 }
+.nav-item:hover{
+
+    text-decoration: underline;
+  }
 .form-group{
     padding-right: 20%;
 }

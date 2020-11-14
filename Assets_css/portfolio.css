@@ -33,11 +33,22 @@ h4{
     justify-content: center;
 }
 
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
 ul {
     padding-right: 12%;
 }
 .portfolio {
     padding: 3%;
+}
+
+.nav-item:hover{
+
+  text-decoration: underline;
 }
 nav{
     box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
