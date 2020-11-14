@@ -29,6 +29,9 @@ h4{
 .divider{
     padding-left: 25%;
 }
+.portfolioContainer{
+    justify-content: center;
+}
 
 ul {
     padding-right: 12%;
