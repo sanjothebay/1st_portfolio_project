@@ -50,6 +50,10 @@ ul {
 
   text-decoration: underline;
 }
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
 nav{
     box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
 }
