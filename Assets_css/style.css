@@ -1,10 +1,10 @@
 body{
-    border: whitesmoke solid 3.5vw;
-    background: url("../Images/background.JPG");   
+    background: url("../Images/backgroundimg3.JPG");   
 }
 main {
-    background-color: white;
-    box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
+    color: whitesmoke;
+    background-color: black;
+    box-shadow: 5px 5px 7px whitesmoke;
     margin-top: 8%;
     margin-left: -4%;
     margin-bottom: 7%;
@@ -12,14 +12,13 @@ main {
 }
 
 h1 {
-    background-color: black;
     margin-left: 4%;
     text-align: center;
-    color: ivory;
+    color: whitesmoke;
     padding: .5%;
 }
 h2 {
-    color: black;
+    color: whitesmoke;
     font-size: 2.5rem;
     border-bottom: solid 1px;
     padding-bottom: 4% ;
@@ -27,12 +26,18 @@ h2 {
 }
 h3 {
     text-align: center;
-    color: black;
+    color:whitesmoke;
     border-bottom: solid 1px;
     padding-bottom: 5%;
 }
+
+.navbar-light .navbar-nav .nav-link{
+    color: whitesmoke;
+}
+
 nav {
-    box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
+    box-shadow: 5px 5px 7px whitesmoke;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-3eezapkkkGns4KlhRTxZSJIE9wTHEvUKA&usqp=CAU");
 }
 img{
     border-radius: 25%;
@@ -44,13 +49,13 @@ ul {
     padding-right: 12%;
 }
 
+
 aside {
-    background-color: white;
-    box-shadow: 5px 5px 7px rgba(32, 30, 30, 0.199);
+    
+    box-shadow: 5px 5px 7px whitesmoke;
     margin-top: 5%;
 }
 .nav-item:hover{
-
     text-decoration: underline;
   }
 .social-links {
