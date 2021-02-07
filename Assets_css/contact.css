@@ -2,7 +2,7 @@ body{
     background: url("../Images/backgroundimg3.JPG");   
 }
 form{
-    box-shadow: 5px 5px 7px whitesmoke;
+    box-shadow: 5px 5px 5px 7px whitesmoke;
     background-color: black;
     padding: 4%;
     margin: 8%;
@@ -35,7 +35,7 @@ ul {
     padding-right: 20%;
 }
 nav {
-    box-shadow: 5px 5px 7px whitesmoke;
+    box-shadow: 10px 10px 10px whitesmoke;
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-3eezapkkkGns4KlhRTxZSJIE9wTHEvUKA&usqp=CAU");
 }
 footer{
