@@ -15,5 +15,15 @@ module.exports = function(app) {
       res.render("index")
 
   });
+  app.get("/contact", function(req, res) {
+    // console.log(data);
+    res.render("contact")
+
+});
+app.get("/portfolio", function(req, res) {
+  // console.log(data);
+  res.render("portfolio")
+
+});
 
 };

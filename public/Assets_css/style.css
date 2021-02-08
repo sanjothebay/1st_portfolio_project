@@ -41,12 +41,14 @@ nav {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-3eezapkkkGns4KlhRTxZSJIE9wTHEvUKA&usqp=CAU");
 }
 img{
-    border-radius: 25%;
+    border-radius: 40%;
     box-shadow: 5px 5px 5px whitesmoke;
     float: left;
-    padding: 4%;
+    padding: 3%;
     width: 50%;
-    margin-right: 5%;
+    margin-right: 18%;
+    shape-outside: circle();
+    
 }
 ul {
     padding-right: 12%;
