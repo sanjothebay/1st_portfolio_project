@@ -2,7 +2,7 @@ body{
     background: url("../Images/backgroundimg3.JPG");   
 }
 main {
-    color: whitesmoke;
+    color: rgb(250, 161, 161);
     box-shadow: 5px 5px 5px 7px whitesmoke;
     margin-top: 8%;
     margin-left: -4%;
