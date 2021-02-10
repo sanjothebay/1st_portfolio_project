@@ -2,7 +2,7 @@
 
 https://floating-retreat-55850.herokuapp.com/
 
-https://sanjothebay.github.io/tech_monterrey_portfolio_hw_project/
+https://sanjothebay.github.io/tech_monterrey_portfolio_hw_project/index
 
 
 https://github.com/sanjothebay/tech_monterrey_portfolio_hw_project
