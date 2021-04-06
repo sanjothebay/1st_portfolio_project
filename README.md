@@ -2,10 +2,10 @@
 
 https://floating-retreat-55850.herokuapp.com/
 
-https://sanjothebay.github.io/tech_monterrey_portfolio_hw_project/index
+https://sanjothebay.github.io/1st_portfolio_project/
 
 
-https://github.com/sanjothebay/tech_monterrey_portfolio_hw_project
+https://github.com/sanjothebay/1st_portfolio_project
 
 
 ****  This web page is using Bootstrap to help with the responsiveness. 
